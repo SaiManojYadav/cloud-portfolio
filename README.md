@@ -1,5 +1,3 @@
-# cloud-portfolio
-
 Hi, I'm Sai Manoj Yadav 👋
 
 🚀 Cloud Engineer | Azure Specialist | Network Troubleshooter
@@ -56,6 +54,5 @@ Phone: +91 6301540336
 
 Email: Manojsaiyadav99@gmail.com
 
-LinkedIn: Sai Manoj Yadav
+LinkedIn:https://www.linkedin.com/in/vankara-sai-manoj-yadav-53b2601a9/
 
-Updated README for portfolio
