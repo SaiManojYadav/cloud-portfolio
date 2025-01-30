@@ -10,9 +10,9 @@ Contact Information
 
 Phone: +91 6301540336
 
-Email: Manojsaiyadav99@gmail.com
+Email: manojsaiyadav99@gmail.com
 
-LinkedIn: Sai Manoj Yadav
+LinkedIn:www.linkedin.com/in/vankara-sai-manoj-yadav-53b2601a9
 
 Skills
 
