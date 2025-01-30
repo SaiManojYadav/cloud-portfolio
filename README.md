@@ -1,73 +1,61 @@
 # cloud-portfolio
 
-Sai Manoj Yadav - Cloud Engineer Portfolio
+Hi, I'm Sai Manoj Yadav 👋
 
-About Me
+🚀 Cloud Engineer | Azure Specialist | Network Troubleshooter
 
-Hi, I'm Sai Manoj Yadav, a passionate and results-driven Cloud Engineer specializing in optimizing Azure environments, incident management, and network troubleshooting. With 3 years of hands-on experience, I help businesses achieve operational excellence through strategic cloud solutions.
+💡 Passionate about building scalable cloud infrastructures, optimizing IT environments, and solving critical networking issues to ensure operational excellence.
 
-Contact Information
-
-Phone: +91 6301540336
-
-Email: manojsaiyadav99@gmail.com
-
-LinkedIn:www.linkedin.com/in/vankara-sai-manoj-yadav-53b2601a9
-
-Skills
+🔧 Technical Skills
 
 Cloud Platforms: Azure
 
-Networking: TCP/IP, DNS, DHCP, VPNs, Routing Protocols, VLANs
+Incident & Problem Management: ITIL, Root Cause Analysis, Incident Resolution
 
-Programming: Python, PowerShell
-
-Incident Management: ITIL, Problem Resolution, Root Cause Analysis
+Programming & Automation: Python, PowerShell
 
 Infrastructure Management: IaaS, Virtual Machines, Server Configuration
 
-Automation: Scripting with PowerShell & Python
+Networking: DHCP, DNS, TCP/IP, VLANs, VPNs, Routing Protocols
 
-Key Projects
+Security: Firewalls, Load Balancers, IDS/IPS
 
-1. Azure VM Migration and Optimization
+📂 Highlighted Projects
 
-Migrated multiple customer environments from data center servers to Azure virtual machines.
+Azure VM Migration and Optimization
 
-Reduced downtime and improved operational efficiency with optimized migration strategies.
+Migrated multiple customer environments from data center servers to Azure virtual machines, reducing downtime and improving operational efficiency.
 
-2. 24/7 Live Site Monitoring & Incident Response
+24/7 Live Site Monitoring & Incident Response
 
-Monitored critical environments and achieved zero escalation by resolving issues rapidly.
+Maintained high system uptime by rapidly resolving critical issues within SLA targets and optimizing incident response by 20%.
 
-Reduced incident response time by 20% through strategic process improvements.
+Networking Solutions for Cloud Infrastructure
 
-3. Networking Solutions for Cloud Infrastructure
+Designed and supported secure and scalable network systems with hands-on experience in Cisco and Arista devices.
 
-Designed and supported secure and scalable network systems.
+Incident Automation for Infrastructure Monitoring
 
-Hands-on experience with Cisco, Arista devices, and firewall configurations.
+Developed automation scripts using PowerShell and Python to enhance monitoring and reporting for cloud environments.
 
-4. Automation for Infrastructure Monitoring
-
-Developed scripts to automate monitoring and reporting for cloud environments.
-
-Enhanced system reliability through proactive automation strategies.
-
-Certifications
+🎓 Certifications
 
 Microsoft Azure Fundamentals (AZ-900)
 
-Achievements
+🏆 Achievements
 
-Achieved a 20% reduction in incident response time.
+Reduced incident response time by 20%.
 
 Maintained zero escalation for SLA-critical environments.
 
 Successfully migrated complex customer infrastructures to Azure with minimal downtime.
 
-Education
+📬 Contact Information
 
-Bachelor of Technology in Electrical and Electronics EngineeringSri Venkateswara College of Engineering (July 2017 – March 2021)
+Phone: +91 6301540336
+
+Email: Manojsaiyadav99@gmail.com
+
+LinkedIn: Sai Manoj Yadav
 
 Updated README for portfolio
